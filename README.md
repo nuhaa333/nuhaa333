@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nuhaa333
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently focused on learning fullstack.
 - 💞️ I’m looking to collaborate on projects
 - 📫 reach me through email nuhaaaisha592@gmail.com.
 - 😄 Pronouns: ...
